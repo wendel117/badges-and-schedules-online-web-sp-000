@@ -10,4 +10,3 @@ end
 
 def printer
 end
-end
